@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Includes: The Evolution and Reform of the Friends of Nature, How FON
   was founded?, Who are the members?, Main Programs, and Management Reforms.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-363-civil-society-and-the-environment-spring-2005/5048a48ad6d030ae6a5f0a01fcbd0f35_student1_case.pdf
+file: /media/courses/11-363-civil-society-and-the-environment-spring-2005/5048a48ad6d030ae6a5f0a01fcbd0f35_student1_case.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: student1_case.pdf
 uid: 5048a48a-d6d0-30ae-6a5f-0a01fcbd0f35

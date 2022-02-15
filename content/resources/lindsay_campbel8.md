@@ -5,8 +5,13 @@ description: 'Reactions on: The structure of European Union (EU) environmental p
   of varying political opportunity structures on social movements and political protest
   by analyzing four national case studies? (Germany, Sweden, US, and France) anti-nuclear
   movements by Kitschelt, Cases of collaborative environmental planning by Singleton.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-363-civil-society-and-the-environment-spring-2005/64143c555413badd5db9b869f463fea4_lindsay_campbel8.pdf
+file: /media/courses/11-363-civil-society-and-the-environment-spring-2005/64143c555413badd5db9b869f463fea4_lindsay_campbel8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: lindsay_campbel8.pdf
 uid: 64143c55-5413-badd-5db9-b869f463fea4
