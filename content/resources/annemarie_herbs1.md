@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: annemarie_herbs1.pdf
 uid: 57ed625d-5424-c586-3679-7b8c257f32fe

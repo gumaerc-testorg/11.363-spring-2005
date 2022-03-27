@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a223bfcb-4653-6cd2-7999-c6a8081eedee
 resourcetype: Document
 title: fogelson_quest.pdf
 uid: 067ba55c-034a-6739-1a72-029ebcaa884b

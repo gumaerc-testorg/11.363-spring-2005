@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: lindsay_campbel4.pdf
 uid: 76ae36ba-dc88-76eb-3993-d85631a5d835

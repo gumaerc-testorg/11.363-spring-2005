@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: david_fogelson2.pdf
 uid: d5feb157-5ab6-e71c-f8f7-b69d5dfb0ea3

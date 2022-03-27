@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: erik_nielsen8.pdf
 uid: 7aa99fe5-2799-4e26-4f0b-42f9e2c63136
