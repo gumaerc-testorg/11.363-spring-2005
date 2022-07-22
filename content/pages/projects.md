@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'Includes case studies and summaries with external links to review. '
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: a223bfcb-4653-6cd2-7999-c6a8081eedee
 ---
@@ -37,7 +41,7 @@ Review the following Web sites:
 Week 6: EcoLogic Finance: A Trisector Solution? (David Fogelson)
 ----------------------------------------------------------------
 
-EcoLogic Finance Case Discussion Questions ([PDF]({{< baseurl >}}/resources/fogelson_quest))
+EcoLogic Finance Case Discussion Questions ({{% resource_link 067ba55c-034a-6739-1a72-029ebcaa884b "PDF" %}})
 
 Ecologic Finance is a nonprofit small/medium enterprise finance organization funding mostly FairTrade certified coffee growers in Latin America in the hopes that by sustainably developing, they are protecting ecologically sensitive areas. The case explores a variety of questions to find out where this approach works, the caveats, and the opportunity to use a private/public/non-profit model for future environmental issues.
 
@@ -56,7 +60,7 @@ This case study examines the origins and activities of one environmental NGO's i
 
 [World Alliance of Mobile Indigenous Peoples (WAMIP)](http://web.archive.org/web/20100607071649/http://www.wamip.org/)
 
-Civic Entrepreneurship Series (CENESTA wrote the regional West Asia chapter in Volume V) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8 MB](http://www.siame.gov.co/siame/documentos/documentacion/mdl/03_VF_Bibliografia/Cambio%20Climatico%20y%20Desarrollo/Civil%20entrepreneurship%20Global.pdf))
+Civic Entrepreneurship Series (CENESTA wrote the regional West Asia chapter in Volume V) ([PDF - 1.8 MB](http://www.siame.gov.co/siame/documentos/documentacion/mdl/03_VF_Bibliografia/Cambio%20Climatico%20y%20Desarrollo/Civil%20entrepreneurship%20Global.pdf))
 
 Week 8: Rio Grande/Rio Bravo Shared Water Dispute: Where North Meets South (Randall Coffie)
 -------------------------------------------------------------------------------------------
@@ -78,7 +82,7 @@ Herzog, Lawrence A. _Where North Meets South: Cities, Space and Politics on the 
 Week 9: Development and Reform of the Friends of Nature: A Case Study of the First Environmental NGO in China (Student 1)
 -------------------------------------------------------------------------------------------------------------------------
 
-The Evolution and Reform of the Friends of Nature ([PDF]({{< baseurl >}}/resources/student1_case))
+The Evolution and Reform of the Friends of Nature ({{% resource_link 5048a48a-d6d0-30ae-6a5f-0a01fcbd0f35 "PDF" %}})
 
 The Friends of Nature (FON) was founded in 1994. It is the first and largest environmental NGO in China. During the past decade, especially the last four years, the FON developed very quickly. It has more than 2,000 individual members and around 100 affiliate association members. The main program of FON is environmental education, which includes tree planting, bird watching, and rural teacher training. FON is a non-profit organization, funding itself by membership fees, domestic public support and international foundation grants. FON now faces challenges of internal reform with respect to its management structure, program tactics and strategy in the relationship with state and local governments. Shifting from its first decade to the second, FON is going to expand its programs and functions into two main directions: to shift from public awareness to public participation for environmental education and strengthen its interaction with government and its role in governmental decision making processes.
 

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Syllabus gives a brief description of the course alongwith the assignments
+  and grading criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c4a41dc9-2ff6-aff9-ecf4-14feacb0257b
 ---
