@@ -7,6 +7,7 @@ file: /courses/11-363-civil-society-and-the-environment-spring-2005/5365b8f1186d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: erik_nielsen5.pdf
 uid: 5365b8f1-186d-b6a1-f906-ce4249712bcd
 ---
 Reactions on: On the International Origins of Domestic Political Opportunities by McAdam, Alternative Types of Cross-national Diffusion in the Social Movement Arena by Snow and Benford, International Triggering Events by Carmin and Hicks.
-

@@ -7,6 +7,7 @@ file: /courses/11-363-civil-society-and-the-environment-spring-2005/1bed12130f7d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: emily_greenspa10.pdf
 uid: 1bed1213-0f7d-b600-9aa2-3c6cc42acffa
 ---
 Reactions on: Bucket Brigades by O?Rourke, Grass-Roots Ecosystem Management by Weber, Understanding Disenfranchisement by Fisher and Green, and Leveraging Local Action by Carmin.
-

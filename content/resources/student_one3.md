@@ -5,6 +5,7 @@ file: /courses/11-363-civil-society-and-the-environment-spring-2005/9c84fb3d27f1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: student_one3.pdf
 uid: 9c84fb3d-27f1-3740-24de-a5c109f3de93
 ---
 Reactions on: world civic politics.
-

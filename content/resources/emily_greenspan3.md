@@ -8,6 +8,7 @@ file: /courses/11-363-civil-society-and-the-environment-spring-2005/08daf7c1bc35
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: emily_greenspan3.pdf
 uid: 08daf7c1-bc35-35ea-b6d2-eb630c3ee3d3
 ---
 Reactions on: Politics Beyond the State: Environmental Activism & World Civic Politics by Wapner, Horizontal Politics: Transnational Environmental Activism and Global Cultural Change by Wapner, and Environmental Organization: Changing Roles & Functions in Global Politics by Tamiotti & Finger.
-

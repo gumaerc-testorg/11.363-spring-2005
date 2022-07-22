@@ -7,6 +7,7 @@ file: /courses/11-363-civil-society-and-the-environment-spring-2005/57ed625d5424
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: annemarie_herbs1.pdf
 uid: 57ed625d-5424-c586-3679-7b8c257f32fe
 ---
 Reactions on: The idea of global civil society by Mary Kaldor, Power Shift by Jessica Mathews, Civil Society and the Future of the Nation-State by David Rieff, Worlds Apart by Clark, Social Movements and World Politics, by Smith et al.
-

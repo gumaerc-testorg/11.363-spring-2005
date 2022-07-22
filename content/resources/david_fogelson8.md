@@ -7,6 +7,7 @@ file: /courses/11-363-civil-society-and-the-environment-spring-2005/f63f0d7f818a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: david_fogelson8.pdf
 uid: f63f0d7f-818a-8940-05de-868e23c0fa41
 ---
 Reactions on: Political Opportunity Structures and Political Protest by Kitschelt, Collaborative Environmental Planning in the American West by  Singleton, Greening with Conflict? by Ho, and Eurocratising Enlargement? by Hallstrom.
-

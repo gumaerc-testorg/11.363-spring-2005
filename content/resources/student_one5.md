@@ -5,6 +5,7 @@ file: /courses/11-363-civil-society-and-the-environment-spring-2005/bd3ec1fde794
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: student_one5.pdf
 uid: bd3ec1fd-e794-7b19-8645-f586eca3e55a
 ---
 Reactions on: social movement.
-

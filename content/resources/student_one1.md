@@ -6,6 +6,7 @@ file: /courses/11-363-civil-society-and-the-environment-spring-2005/a9e61b1f8e53
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: student_one1.pdf
 uid: a9e61b1f-8e53-170d-ce91-eaecfc4d0e0f
 ---
 Reactions on: Civil Society, and Advantages to the society by the power shifting.
-

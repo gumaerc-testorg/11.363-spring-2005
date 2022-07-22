@@ -9,6 +9,7 @@ file: /courses/11-363-civil-society-and-the-environment-spring-2005/7c208fb5aa36
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: lindsay_campbel9.pdf
 uid: 7c208fb5-aa36-a2b7-d9ba-829737a64eb1
 ---
 Reactions on: Increase in NGOs? efforts to work directly with (cooperative strategies) or against (confrontational strategies) MNCs by Newell, Cross-sector collaborations between NGOs and corporations by Rondinelli and London, The effect of NGOs? exertion of direct pressure through negative campaigns on corporations by Sasser et al.
-

@@ -6,6 +6,7 @@ file: /courses/11-363-civil-society-and-the-environment-spring-2005/a8c637eb7b79
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: erik_nielsen2.pdf
 uid: a8c637eb-7b79-c140-7015-f87b700fc3dc
 ---
 Reactions on: Defending Accountability in NGOs, Restructuring World Politics, and NGO Performance and Accountability.
-
