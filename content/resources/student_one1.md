@@ -3,6 +3,7 @@ content_type: resource
 description: 'Reactions on: Civil Society, and Advantages to the society by the power
   shifting.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/a9e61b1f8e53170dce91eaecfc4d0e0f_student_one1.pdf
+file_size: 19487
 file_type: application/pdf
 learning_resource_types:
 - Assignments

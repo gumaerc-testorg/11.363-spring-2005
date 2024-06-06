@@ -3,6 +3,7 @@ content_type: resource
 description: 'Reactions on: Politics Beyond the State: Environmental Activism and
   Word Civic Politics, Horizontal Politics, and Environmental Organizations.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/e29d88767733a3f195c00a30b1f37f1b_erik_nielsen3.pdf
+file_size: 65964
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -4,6 +4,7 @@ description: 'Reactions on: Role of transnational environmental organizations in
   politics, Politics Beyond the State by Wapner, Typology of environmental organizations
   by Tamiotti and Finger, Horizontal Politics by Wapner.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/38e8840733717458a2208feb7a9f9b77_lindsay_campbel3.pdf
+file_size: 75684
 file_type: application/pdf
 learning_resource_types:
 - Assignments

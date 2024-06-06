@@ -6,6 +6,7 @@ description: 'Reactions on: Political opportunity theory by McAdam, Cross-nation
   Eastern European environmental movements by Hicks, Stalling of civil society development
   within the Russian Federation by Crotty.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/0d44723ac830e6b328aeaafd8189bf89_lindsay_campbel5.pdf
+file_size: 100932
 file_type: application/pdf
 learning_resource_types:
 - Assignments

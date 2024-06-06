@@ -7,6 +7,7 @@ description: 'Reactions on: NGO Influence in International Environmental Negotia
   Environmental Interests: New Opportunities for Non-Governmental Organization Access
   within the World Trade Organization? by Mason.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/9469cf037dd797dcca757cbc406629fd_emily_greenspan7.pdf
+file_size: 70243
 file_type: application/pdf
 learning_resource_types:
 - Assignments

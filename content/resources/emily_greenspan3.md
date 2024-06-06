@@ -5,6 +5,7 @@ description: 'Reactions on: Politics Beyond the State: Environmental Activism & 
   and Global Cultural Change by Wapner, and Environmental Organization: Changing Roles
   & Functions in Global Politics by Tamiotti & Finger.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/08daf7c1bc3535eab6d2eb630c3ee3d3_emily_greenspan3.pdf
+file_size: 80342
 file_type: application/pdf
 learning_resource_types:
 - Assignments

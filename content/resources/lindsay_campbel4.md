@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Reactions on: Keck and Sikkink, Rodrigues, and Caniglia.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/76ae36badc8876eb3993d85631a5d835_lindsay_campbel4.pdf
+file_size: 97320
 file_type: application/pdf
 learning_resource_types:
 - Assignments

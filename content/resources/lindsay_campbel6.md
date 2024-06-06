@@ -4,6 +4,7 @@ description: 'Reactions on: Why do environmental movement organizations have dif
   strategies and how do they select which actions they will take to affect change?
   by Carmin and Balser, Need for analysis of local organizations by Andrews and Edwards.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/c8b2056294fb5dc172741124fb6c79b0_lindsay_campbel6.pdf
+file_size: 72968
 file_type: application/pdf
 learning_resource_types:
 - Assignments
