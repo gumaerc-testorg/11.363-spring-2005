@@ -6,6 +6,7 @@ description: 'Reactions on: The structure of European Union (EU) environmental p
   by analyzing four national case studies? (Germany, Sweden, US, and France) anti-nuclear
   movements by Kitschelt, Cases of collaborative environmental planning by Singleton.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/64143c555413badd5db9b869f463fea4_lindsay_campbel8.pdf
+file_size: 72709
 file_type: application/pdf
 learning_resource_types:
 - Assignments

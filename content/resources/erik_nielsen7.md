@@ -6,6 +6,7 @@ description: 'Reactions on: Representing Transnational Environmental Interests: 
   Millennium Assembly by Alger, States, NGOs, and International Environmental Institutions
   by Raustiala.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/fcd7a684224bcb679a641efa99a96ca8_erik_nielsen7.pdf
+file_size: 71231
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: 'Reactions on: ransnational organization?s roles in the international
   animal conservation.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/e5e31e315dd0d85e20cfeb29ef141b43_student_one4.pdf
+file_size: 72548
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -6,6 +6,7 @@ description: 'Reactions on: NGO Performance and Accountability: Intro. and Overv
   Authority? The Legitimacy and Accountability of Nongovernmental Organizations by
   Slim.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/d5feb1575ab6e71cf8f7b69d5dfb0ea3_david_fogelson2.pdf
+file_size: 65095
 file_type: application/pdf
 learning_resource_types:
 - Assignments

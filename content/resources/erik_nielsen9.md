@@ -6,6 +6,7 @@ description: 'Reactions on: Campaigning for Corporate Change: Global Citizen Act
   Leverage: NGO Influence on Certification Institutions in the Forest Products Sector
   by Sasser.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/cbb61e0b4a557c9e1e4ec4ad16cd8f54_erik_nielsen9.pdf
+file_size: 72841
 file_type: application/pdf
 learning_resource_types:
 - Assignments

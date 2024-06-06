@@ -5,6 +5,7 @@ description: 'Reactions on: Restructuring World Politics: The Limits and Asymmet
   Edwards and David Hulmem, Defending Accountability in NGOs by Paul Wapner, By What
   Authority? The Legitimacy and Accountability of NGOs by Hugo Slim.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/2831706694699d41e6eef1672554013d_emily_greenspan2.pdf
+file_size: 67950
 file_type: application/pdf
 learning_resource_types:
 - Assignments

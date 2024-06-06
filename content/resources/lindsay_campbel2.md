@@ -5,6 +5,7 @@ description: 'Reactions on: Growth and impact of NGOs under the New Policy Agend
   of NGOs by Wapner, Soft power in transnational social movements by Sikkink, NGO
   accountability, legitimacy, and performance by Slim.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/156154f993e145f1c3a390cf716d9ef9_lindsay_campbel2.pdf
+file_size: 74481
 file_type: application/pdf
 learning_resource_types:
 - Assignments
