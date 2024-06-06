@@ -6,6 +6,7 @@ description: 'Reactions on: The Environmental Movement and the Modes of Politica
   by Andrews and Edwards, and European Environmental NGOs: Issues, Resources & Strategies
   in Marine Campaigns by Richards, Heard.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/e047d68fb1d1bb82ac3af47177a9f114_emily_greenspan6.pdf
+file_size: 79852
 file_type: application/pdf
 learning_resource_types:
 - Assignments

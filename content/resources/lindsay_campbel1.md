@@ -8,6 +8,7 @@ description: 'Reactions on: The shift in power from the latter to the former (an
   civil society and the decline of the state by Clark, The organization of transnational
   social movements as contributing to global problem solving by  Smith et al.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/0b15037528abb3ebf68b6aca7f9b42cd_lindsay_campbel1.pdf
+file_size: 66284
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Reactions on: social movement.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/bd3ec1fde7947b198645f586eca3e55a_student_one5.pdf
+file_size: 16475
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -6,6 +6,7 @@ description: 'Reactions on: Eurocratising Enlargement? EU Elites and NGO Partici
   Environmenta Planning in the American West ? the Good, Bad, and Ugly by Singleton,
   Greening wthout Conflict? Environmentalsm in China by Ho.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/a1ac8e2e16a7de8787d5d9f1f3d33ca8_emily_greenspan8.pdf
+file_size: 69850
 file_type: application/pdf
 learning_resource_types:
 - Assignments
