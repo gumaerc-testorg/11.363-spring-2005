@@ -2,7 +2,7 @@
 content_type: resource
 description: Includes discussion questions on EcoLogic Finance ? Business? Answer
   to Environmentalism.
-file: /ol-ocw-studio-app/courses/11-363-civil-society-and-the-environment-spring-2005/067ba55c034a67391a72029ebcaa884b_fogelson_quest.pdf
+file: /courses/11-363-civil-society-and-the-environment-spring-2005/067ba55c034a67391a72029ebcaa884b_fogelson_quest.pdf
 file_size: 14908
 file_type: application/pdf
 learning_resource_types:

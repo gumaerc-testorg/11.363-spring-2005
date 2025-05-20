@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Reactions on: commercial corporations and environmental NGOs.'
-file: /ol-ocw-studio-app/courses/11-363-civil-society-and-the-environment-spring-2005/73efee4a2499172ee76f47fcd0180b88_student_one9.pdf
+file: /courses/11-363-civil-society-and-the-environment-spring-2005/73efee4a2499172ee76f47fcd0180b88_student_one9.pdf
 file_size: 40972
 file_type: application/pdf
 learning_resource_types:

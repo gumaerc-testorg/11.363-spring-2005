@@ -3,7 +3,7 @@ content_type: resource
 description: 'Reactions on: Political Opportunity Structures and Political Protest
   by Kitschelt, Collaborative Environmental Planning in the American West by  Singleton,
   Greening with Conflict? by Ho, and Eurocratising Enlargement? by Hallstrom.'
-file: /ol-ocw-studio-app/courses/11-363-civil-society-and-the-environment-spring-2005/f63f0d7f818a894005de868e23c0fa41_david_fogelson8.pdf
+file: /courses/11-363-civil-society-and-the-environment-spring-2005/f63f0d7f818a894005de868e23c0fa41_david_fogelson8.pdf
 file_size: 65805
 file_type: application/pdf
 learning_resource_types:
