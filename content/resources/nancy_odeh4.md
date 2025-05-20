@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Reactions on: Reimann?s (2001), Keck and Sikkink?s chapters (1998),
   and Rodrigues.'
-file: /ol-ocw-studio-app/courses/11-363-civil-society-and-the-environment-spring-2005/f6fd66951a7c9b3db6a7719fa117a2d6_nancy_odeh4.pdf
+file: /courses/11-363-civil-society-and-the-environment-spring-2005/f6fd66951a7c9b3db6a7719fa117a2d6_nancy_odeh4.pdf
 file_size: 65349
 file_type: application/pdf
 learning_resource_types:

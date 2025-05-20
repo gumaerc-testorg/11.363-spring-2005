@@ -3,7 +3,7 @@ content_type: resource
 description: 'Reactions on: Dalton, Rohrschneider, and Recchia (2003), Carmen and
   Balser (2002), Edwards and Andrews (2005), Richards and Heard (2005), followed by
   questions based on the readings.'
-file: /ol-ocw-studio-app/courses/11-363-civil-society-and-the-environment-spring-2005/6bc03244a0415e62458b8c03d80f3b91_nancy_oden6.pdf
+file: /courses/11-363-civil-society-and-the-environment-spring-2005/6bc03244a0415e62458b8c03d80f3b91_nancy_oden6.pdf
 file_size: 79561
 file_type: application/pdf
 learning_resource_types:

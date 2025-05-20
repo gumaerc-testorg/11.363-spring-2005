@@ -6,7 +6,7 @@ description: 'Reactions on: Community Environmental Policing: Assessing New Stra
   Movement by Weber, Understanding Disenfranchisement: Civil Society and Developing
   Countries? Influence and Participation in Global Governance for Sustainable Development
   by Fisher and Green, Leveraging Local Action by Carmin, Hicks and Beckmann.'
-file: /ol-ocw-studio-app/courses/11-363-civil-society-and-the-environment-spring-2005/cf519bbeff6d98c14cdb966d6dd6e6da_erik_nielsen10.pdf
+file: /courses/11-363-civil-society-and-the-environment-spring-2005/cf519bbeff6d98c14cdb966d6dd6e6da_erik_nielsen10.pdf
 file_size: 71775
 file_type: application/pdf
 learning_resource_types:

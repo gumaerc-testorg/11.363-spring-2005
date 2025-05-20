@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Reactions on: Reasons for NGOs great development, Development Risks,
   Performace-Monitoring, and Accountability.'
-file: /ol-ocw-studio-app/courses/11-363-civil-society-and-the-environment-spring-2005/dbc41a418399db8dc65662b618eae104_student_one2.pdf
+file: /courses/11-363-civil-society-and-the-environment-spring-2005/dbc41a418399db8dc65662b618eae104_student_one2.pdf
 file_size: 19678
 file_type: application/pdf
 learning_resource_types:

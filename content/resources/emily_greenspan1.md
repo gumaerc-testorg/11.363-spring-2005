@@ -4,7 +4,7 @@ description: 'Reactions on: Power Shift by Jessica Matthews, The Idea of Global 
   Society by Mary Kaldor, Worlds Apart by John D. Clark, Social Movements and World
   Politics by Smith, Pagnucco & Chatfield, and Civil Society and the Future of the
   Nation State.'
-file: /ol-ocw-studio-app/courses/11-363-civil-society-and-the-environment-spring-2005/c90778948b58807efe1c3e86db70f4aa_emily_greenspan1.pdf
+file: /courses/11-363-civil-society-and-the-environment-spring-2005/c90778948b58807efe1c3e86db70f4aa_emily_greenspan1.pdf
 file_size: 69984
 file_type: application/pdf
 learning_resource_types:
