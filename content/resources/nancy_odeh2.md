@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Reactions on: The four main readings, Wapner (2003), Sikkink (2002),
   Slim (2002), Edwards and Fowler (2002), followed by questions based on the readings.'
-file: /ol-ocw-studio-app/courses/11-363-civil-society-and-the-environment-spring-2005/b9575dce13892b824a9888938cc4e82e_nancy_odeh2.pdf
+file: /courses/11-363-civil-society-and-the-environment-spring-2005/b9575dce13892b824a9888938cc4e82e_nancy_odeh2.pdf
 file_size: 70387
 file_type: application/pdf
 learning_resource_types:
