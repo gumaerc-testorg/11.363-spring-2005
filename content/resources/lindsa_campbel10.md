@@ -6,7 +6,7 @@ description: 'Reactions on: The disenfranchisement of civil society actors and d
   on the border between the Czech and Slovak Republics? by Carmin et al, Grass-roots
   ecosystem management (GREM) by Weber, Local ecological resistance in Turkey as a
   political project to sustain the community-environment relationship by Coban.'
-file: /courses/11-363-civil-society-and-the-environment-spring-2005/a237f37aeeead155a86879278a9a5298_lindsa_campbel10.pdf
+file: /ol-ocw-studio-app/courses/11-363-civil-society-and-the-environment-spring-2005/a237f37aeeead155a86879278a9a5298_lindsa_campbel10.pdf
 file_size: 91709
 file_type: application/pdf
 learning_resource_types:

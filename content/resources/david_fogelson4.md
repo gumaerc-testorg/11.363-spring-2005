@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Reactions on: Activists Beyond Borders by Keck and Sikkink, Advocating
   for the Environment by Rodrigues, and Building Networks from the Outside In by Reimann.'
-file: /courses/11-363-civil-society-and-the-environment-spring-2005/d431a1c66fedc8400c76cea405c31360_david_fogelson4.pdf
+file: /ol-ocw-studio-app/courses/11-363-civil-society-and-the-environment-spring-2005/d431a1c66fedc8400c76cea405c31360_david_fogelson4.pdf
 file_size: 71569
 file_type: application/pdf
 learning_resource_types:
