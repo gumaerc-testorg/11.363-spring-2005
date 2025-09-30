@@ -20,19 +20,19 @@ Litzinger, Ralph. "Protecting the Mighty Nu: Hydroelectric Schemes, Media Activi
 
 Yardley, Jim. "China's Premier Orders Halt to a Dam Project Threatening a Lost Eden." *New York Times*, April 9, 2004.
 
-Letter written by Mr. Chainarong Sretthachau (Southeast Asia Rivers Network) on December 16, 2003 to China's Ambassador to Thailand entitled "[Petition to China for 83 Organizations from Thailand/Myanmar on Upper Salween Dam](http://www.livingriversiam.org/)."
+Letter written by Mr. Chainarong Sretthachau (Southeast Asia Rivers Network) on December 16, 2003 to China's Ambassador to Thailand entitled "{{% resource_link "e245e36a-76ad-4fa0-a97d-9aa36c97b64a" "Petition to China for 83 Organizations from Thailand/Myanmar on Upper Salween Dam" %}}."
 
 Review the following Web sites:
 
-[Southeast Asia Rivers Network](http://web.archive.org/web/20070402154742/http://www.searin.org/)
+{{% resource_link "c9604e03-d2da-47cb-abfd-c055f6164584" "Southeast Asia Rivers Network" %}}
 
-[Rivers Watch East and Southeast Asia](http://rwesa.tripod.com/intro.htm)
+{{% resource_link "65751329-dcd5-430f-9233-f4c30caf9472" "Rivers Watch East and Southeast Asia" %}}
 
-[International Rivers Network](http://www.irn.org/)
+{{% resource_link "fe2d3588-8e87-4b1f-a7b9-a6e9100a7a10" "International Rivers Network" %}}
 
-[Oxfam America: East Asia](https://www.oxfamamerica.org/about/measuring-impact/east-asia-communities-affected-by-mining-and-drilling/)
+{{% resource_link "b4cf52d8-f624-4709-beb4-e85ef5552153" "Oxfam America: East Asia" %}}
 
-[Greenpeace: APP Illegal Logging in Yunnan](http://www.china.org.cn/english/2004/Dec/115150.htm)
+{{% resource_link "8c600007-7a0f-4861-89d5-0840aed6a821" "Greenpeace: APP Illegal Logging in Yunnan" %}}
 
 ## Week 6: EcoLogic Finance: A Trisector Solution? (David Fogelson)
 
@@ -42,19 +42,19 @@ Ecologic Finance is a nonprofit small/medium enterprise finance organization fun
 
 Reaping Coffee Harvests with Timely Access to Trade Credit
 
-[Berry Sales to U.S. Offer Security to Amazon Farmers](http://www.mongabay.com/external/amazon_acai_berries.htm)
+{{% resource_link "56ef3137-ee00-49a2-ac34-b79fe057e6f8" "Berry Sales to U.S. Offer Security to Amazon Farmers" %}}
 
-[Ecologic Finance](http://www.ecologicfinance.org/)
+{{% resource_link "099dcd3f-65b3-472a-b7ee-4c768e254127" "Ecologic Finance" %}}
 
 ## Week 7: Civil Society and Environmental Governance in the Middle East (Nancy Odeh)
 
 This case study examines the origins and activities of one environmental NGO's in Iran, the Centre for Sustainable Development (CENESTA). CENESTA is a member of the World Conservation Union and is affiliated with the University of the North (Iran). CENESTA works with a range of actors from local communities in rural areas in Iran to national governments and inter-governmental entities. One of CENESTA's most recent initiatives included facilitating the sustainability of biodiversity and livelihoods in nomadic pastoralism in Iran.
 
-[CENESTA](http://www.cenesta.org/)
+{{% resource_link "379ff261-50ed-4cff-94d6-36b163629ea8" "CENESTA" %}}
 
-[World Alliance of Mobile Indigenous Peoples (WAMIP)](http://web.archive.org/web/20100607071649/http://www.wamip.org/)
+{{% resource_link "1fd614b5-0542-4938-a32d-b658b487385e" "World Alliance of Mobile Indigenous Peoples (WAMIP)" %}}
 
-Civic Entrepreneurship Series (CENESTA wrote the regional West Asia chapter in Volume V) ([PDF - 1.8 MB](http://www.siame.gov.co/siame/documentos/documentacion/mdl/03_VF_Bibliografia/Cambio%20Climatico%20y%20Desarrollo/Civil%20entrepreneurship%20Global.pdf))
+Civic Entrepreneurship Series (CENESTA wrote the regional West Asia chapter in Volume V) ({{% resource_link "08585726-901c-4af2-bf8f-7b109da43af2" "PDF - 1.8 MB" %}})
 
 ## Week 8: Rio Grande/Rio Bravo Shared Water Dispute: Where North Meets South (Randall Coffie)
 
@@ -64,9 +64,9 @@ Forming a lifeline through the arid Chihuahuan desert, the Río Grande/Río Brav
 
 Mizrahi, Yemile. "Mexico and the USA Quarrel over Shared Waters." *Federations* 5 (2002): 5-6.
 
-Center for Strategic and International Studies. *US-Mexico Transboundary Water Management: The Case of the Rio Grande/Rio Bravo*. Washington, DC: Center for Strategic and International Studies, 2003. ([PDF - 1.5 MB](https://csis-website-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/attachments/030213_binational_council_report.pdf))
+Center for Strategic and International Studies. *US-Mexico Transboundary Water Management: The Case of the Rio Grande/Rio Bravo*. Washington, DC: Center for Strategic and International Studies, 2003. ({{% resource_link "b098e2ca-f6a0-4ce5-94c3-de9979d1fd70" "PDF - 1.5 MB" %}})
 
-Texas Natural Resource Conservation Commission. "Texas-Nuevo Leon, Strategic Environmental Plan: A Framework for Cooperation." 2005. ([PDF](https://www.tceq.texas.gov/border/TexasNuevoLenSEP_2005_English.pdf/))
+Texas Natural Resource Conservation Commission. "Texas-Nuevo Leon, Strategic Environmental Plan: A Framework for Cooperation." 2005. ({{% resource_link "96ed83e2-5d78-49b7-9ee7-5a40888c6630" "PDF" %}})
 
 Bloom, Greg. "The Rio Grande/Rio Bravo Basin Coalition: A Multinational Organization Dedicated to the River." 2001.
 
@@ -84,7 +84,7 @@ Wang, Peter. Friends of Nature's Membership Survey and Analysis. 2004.
 
 Lappin, Todd. "Can Green Mix with Red?" *The Nation*, Feb 14, 1994.
 
-Review the following website: [Friends of Nature](http://www.fon.org.cn/index.php?id=257)
+Review the following website: {{% resource_link "b4fda354-b8ab-4416-b27f-11f45590c74c" "Friends of Nature" %}}
 
 ## Week 10: U'wa vs. Oxy: Civil Society Resistance to Oil Development in Colombia (Emily Greenspan)
 
@@ -98,20 +98,20 @@ Jeffrey, Paul. "U'wa vs. 'Oxy.'" *National Catholic Reporter* 36, no. 39 (2000).
 
 Soltani, Atossa and Kevin Koenig. "U'wa Overcome Oxy." *Multinational Monitor* 25 (2004).
 
-Review the following website: [Amazon Watch](http://www.amazonwatch.org/)
+Review the following website: {{% resource_link "aa61e320-7956-400a-af33-7d24f24a7678" "Amazon Watch" %}}
 
 ## Week 11: Development and Activities of the Urban Ecology Collaborative (Lindsay Campbell)
 
 This case examines a small network of nonprofit and public partners in Boston, New Haven, New York, Pittsburgh, Washington, DC, and Baltimore called the Urban Ecology Collaborative. We will examine the history of this group, focusing first on the personal and professional relationships of the founders that led to the creation of the UEC, and then consider funding sources that the group has accessed and communication strategies it has used. This selective, multi-city cooperative effort will be compared with other common collaborative structures that are more place-based or more broadly inclusive, considering the advantages and disadvantages of each. The second half of the discussion will examine the results of one specific project of the UEC - the Urban Ecology Collaborative Assessment - an organizational survey that was used to understand the broad capacities, patterns, and gaps of the stewardship networks in each city.
 
-[Baltimore Long Term Ecosystem Research Web site](http://www.beslter.org/)
+{{% resource_link "5fa00dfb-76ff-40d1-996a-f7b0e60db343" "Baltimore Long Term Ecosystem Research Web site" %}}
 
-[Urban Resources Initiative Web site](http://www.yale.edu/uri/)
+{{% resource_link "8849c304-1a2c-494a-9027-8caba128f542" "Urban Resources Initiative Web site" %}}
 
-[Urban Ecology Institute Web site](https://www.volunteermatch.org/search/org53020.jsp#opportunities_tab)
+{{% resource_link "2e4fc2b6-72e4-4c36-9f06-f52ca027dea5" "Urban Ecology Institute Web site" %}}
 
-[Parks and People Web site](http://www.parksandpeople.org/)
+{{% resource_link "66c5243c-b9c5-4acf-874f-c112ab5e8c79" "Parks and People Web site" %}}
 
-[Nine Mile Run Web site](https://upstreampgh.org/)
+{{% resource_link "70a4ca49-3b80-4d67-bbf2-bb64f4a4b58e" "Nine Mile Run Web site" %}}
 
-[Casey Trees Endowment Fund Web site](http://www.caseytrees.org/)
+{{% resource_link "9a151b70-7da3-4de6-9307-c3f59c8551f4" "Casey Trees Endowment Fund Web site" %}}
